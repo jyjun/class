@@ -2,7 +2,7 @@
 
 #Author - Vijay Nagarajan PhD
 #print a string - hello vijay
-print "Hello congratulations \n";
+print "Hello almost there \n";
 
 #variable
 $DNA = 'ACGGGAGGACGGGAAAATTACTACGGCATTAGC';
